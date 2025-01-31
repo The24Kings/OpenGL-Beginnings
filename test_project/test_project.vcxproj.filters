@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="tiny_object_loader.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="std_image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="baseclass.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="test_objects.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="hud.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="geometric_objects.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="fragment_shader.glsl">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="vertex_shader.glsl">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="geometry_shader.glsl">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="vertex_shader.glsl" />
+    <None Include="vertex_shader.glsl" />
+    <None Include="vertex_shader.glsl" />
+    <None Include="lb_vertex_shader.glsl">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="fb_vertex_shader.glsl">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="loaded_object_vertex_shader.glsl">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="loaded_object_fragment_shader.glsl">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="fb_fragment_shader.glsl">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="wb_vertex_shader.glsl">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="hud_fragment_shader.glsl">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="hud_vertex_shader.glsl">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="normal_panel_vertex_shader.glsl">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="other_vertex_shader.glsl">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="aimpoint_vertex_shader.glsl">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="aimpoint_fragment_shader.glsl">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="scolor.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="tiny_obj_loader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="game.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stb_image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="test_objects.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="projectiles.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="elevator.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="target.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="flipper.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="turret.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="flying_enemy.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="player_marker.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="platform.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="lava_floor.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="hud.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="geometric_objects.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="maze_runner.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="moon.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="giants.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="octorok.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="brick.jpg" />
+    <Image Include="floor.jpg" />
+    <Image Include="projectile.png" />
+    <Image Include="chalet.jpg" />
+    <Image Include="projectile.jpg" />
+    <Image Include="bomb.png" />
+    <Image Include="lava.png" />
+    <Image Include="letters.png" />
+    <Image Include="..\..\..\..\Downloads\3DS - The Legend of Zelda Ocarina of Time 3D - Octorok\octorok.png" />
+    <Image Include="red_octorok.png" />
+    <Image Include="moon.jpg" />
+    <Image Include="moon_00_0.png" />
+    <Image Include="giant_00_0.png" />
+    <Image Include="giant_01_8000.png" />
+    <Image Include="trollface.png" />
+    <Image Include="linus.jpg" />
+    <Image Include="oak_planks.png" />
+    <Image Include="blue_octorok.png" />
+  </ItemGroup>
+</Project>

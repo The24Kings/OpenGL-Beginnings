@@ -1,0 +1,156 @@
+
+#
+#
+
+newmtl shooting_gallery Mesh_material-000869A3
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd sh_mz_kabe_02_6900.png
+
+newmtl shooting_gallery Mesh_material-0028CB6E
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd sh_mz_komono_02_1E300.png
+
+newmtl shooting_gallery Mesh_material-002B4EB1
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd sh_mz_mat_01_2BF80.png
+
+newmtl shooting_gallery Mesh_material-004BB6BC
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd sh_mz_kanban_01_9300.png
+
+newmtl shooting_gallery Mesh_material-00764F7E
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.457364 0.457364 0.457364
+Ns 93.000000
+map_Kd sh_mz_komono_01_13B00.png
+
+newmtl shooting_gallery Mesh_material-00AA050C
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd sh_mz_torc_01_51D80.png
+
+newmtl shooting_gallery Mesh_material-00C67779
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd sh_mz_torc_01_51D80.png
+
+newmtl shooting_gallery Mesh_material-014ACA55
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd sh_mz_pos_01_37980.png
+
+newmtl shooting_gallery Mesh_material-016B629B
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd sh_mz_yuka_01_59000.png
+
+newmtl shooting_gallery Mesh_material-016F26E5
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd sh_mz_komono_gl_28B00.png
+
+newmtl shooting_gallery Mesh_material-0185C441
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd sh_mz_nawa_01_2E980.png
+
+newmtl shooting_gallery Mesh_material-01B3E64A
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd sh_mz_nawa_02_2FD80.png
+
+newmtl shooting_gallery Mesh_material-01FA2D6F
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd sh_mz_torc_02_57180.png
+
+newmtl shooting_gallery Mesh_material-02917C90
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd sh_mz_hari_01_0.png
+
+newmtl shooting_gallery Mesh_material-02A96C9E
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd sh_mz_kasa_01_BD00.png
+
+newmtl shooting_gallery Mesh_material-031D6112
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd sh_mz_kabe_01_1500.png
+
+newmtl shooting_gallery Mesh_material-039B5E2A
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd sh_mz_ki_02_11100.png
+
+newmtl shooting_gallery Mesh_material-03A11D01
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd sh_mz_scr_01_3CD80.png
+
+newmtl shooting_gallery Mesh_material-03F4D192
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd sh_mz_ki_01_E700.png
+
